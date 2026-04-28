@@ -28,7 +28,7 @@ Scalable architecture
 **Database-** Mysql
 
 
-##**Objective**
+## **Objective**
 
  
 The main objectives of CareSync are:• To automate daily health tasks such as medicine intake, sugar/BP 
@@ -44,7 +44,7 @@ records.
 • To improve long-term disease management outcomes by promoting routine monitoring and adherence. 
 
 
-#**URL-**
+# **URL-**
 
 
 
