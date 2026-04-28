@@ -14,4 +14,6 @@ of medical records, and appointment alerts, along with easy communication betwee
 By centralizing health data and automating key tasks, CareSync makes chronic disease management more 
 organized, reliable, and convenient. 
 
+**Features**
+
 
