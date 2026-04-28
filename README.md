@@ -16,4 +16,35 @@ organized, reliable, and convenient.
 
 ### **Features**
 
+User-friendly interface
+AI-powered functionality
+Fast and responsive performance
+Secure and reliable system
+Scalable architecture
+
+### **Tech Stack**
+
+**Frontend-** HTML , CSS, JS
+**Database-** Mysql
+
+
+##**Objective**
+
+ 
+The main objectives of CareSync are:• To automate daily health tasks such as medicine intake, sugar/BP 
+tracking, and appointment reminders. 
+ 
+• To create a centralized platform for storing reports, prescriptions, and medical histories. 
+• To reduce manual errors and improve consistency in disease monitoring. 
+• To offer clear and easy-to-read insights for both patients and doctors. 
+• To ensure usability for all age groups, including elderly patients. 
+• To enhance patient engagement by providing timely notifications and structured health information. 
+• To support informed clinical decisions through accurate, well-organized, and continuously updated 
+records. 
+• To improve long-term disease management outcomes by promoting routine monitoring and adherence. 
+
+
+#**URL-**
+
+
 
