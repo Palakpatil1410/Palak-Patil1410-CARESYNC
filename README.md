@@ -50,19 +50,29 @@ https://palakpatil1410.github.io/Palak-Patil1410-CARESYNC/
 # **Work Flow**
 
 1. **User Registration / Login**
+
       New users create an account.
+   
       Existing users log in using credentials.
-2. **Dashboard Access**
+3. **Dashboard Access**
+   
       After login, user enters the main dashboard.
+   
       Dashboard shows all available features.
-3. **Add / Manage Health Data**
+5. **Add / Manage Health Data**
+   
       User can add patient details or personal health records.
+   
       Data is stored and updated using the system.
-4. **View Reports / Records**
+7. **View Reports / Records**
+   
       User can view stored health history and reports anytime.
-5. **Update or Delete Data**
+   
+9. **Update or Delete Data**
+    
       Users can modify or remove existing records.
-6. **Logout**
+11. **Logout**
+    
       User safely logs out of the system.
 
 
