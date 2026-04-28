@@ -14,7 +14,7 @@ of medical records, and appointment alerts, along with easy communication betwee
 By centralizing health data and automating key tasks, CareSync makes chronic disease management more 
 organized, reliable, and convenient. 
 
-### **Features**
+# **Features**
 
 User-friendly interface
 AI-powered functionality
@@ -22,13 +22,13 @@ Fast and responsive performance
 Secure and reliable system
 Scalable architecture
 
-### **Tech Stack**
+# **Tech Stack**
 
 **Frontend-** HTML , CSS, JS
 **Database-** Mysql
 
 
-## **Objective**
+# **Objective**
 
  
 The main objectives of CareSync are:• To automate daily health tasks such as medicine intake, sugar/BP 
@@ -44,7 +44,7 @@ records.
 • To improve long-term disease management outcomes by promoting routine monitoring and adherence. 
 
 
-# **URL-**
+# **URL-** ## https://palakpatil1410.github.io/Palak-Patil1410-CARESYNC/
 
 
 
