@@ -1,5 +1,5 @@
 # Palak-Patil1410-CARESYNC
-Description:
+## Description:
 Chronic diseases such as diabetes, hypertension, and thyroid disorders require continuous monitoring, 
 timely check-ups, and strict medication adherence. However, most patients struggle to manage their health 
 information properly. Reports, prescriptions, and reminders often get scattered across paper files, different 
@@ -14,6 +14,6 @@ of medical records, and appointment alerts, along with easy communication betwee
 By centralizing health data and automating key tasks, CareSync makes chronic disease management more 
 organized, reliable, and convenient. 
 
-**Features**
+### **Features**
 
 
